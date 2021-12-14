@@ -1,0 +1,5 @@
+.round {
+    border: 1px solid #03a;
+    border-radius: 60%;
+    padding: 7px;
+}
